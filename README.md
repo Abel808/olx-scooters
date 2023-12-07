@@ -3,4 +3,4 @@
 
 Here is my rendition of the OLX page Scooters with  subtle UI improvements
 
-Hosted Link : <a href="https://abel808.github.io/olx-scooters/">Scooters</a>
+Hosted Link : <a href="https://stalwart-lebkuchen-27d76c.netlify.app/">Scooters</a>
