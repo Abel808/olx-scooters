@@ -2647,17 +2647,17 @@ footer{
     }
  
 #pages:hover a {
-    color: #002F34;
-    font-size: 14px;
-    font-weight: 500;
+    color: #011c1f;
+    font-size: 13px;
+    font-weight: 450;
     
 
 }
 
 #pages a {
     color:rgba(0, 47, 52, 0.527);
-    font-size: 14px;
-    font-weight: 500;
+    font-size: 13px;
+    font-weight: 450;
     margin: 0 5px;
 }
 
