@@ -1968,6 +1968,12 @@ footer{
 }
 
 
+
+.box3{
+    margin-top: 40px;
+}
+
+
   /* media queries------------------------------------------------------------------------------------------------- */
   @media screen and (max-width: 1280px) {
     .mainbar li{
@@ -2006,6 +2012,7 @@ footer{
     .card{
         width: 250px;
     }
+
     
   
 }
@@ -2638,4 +2645,24 @@ footer{
 
         
     }
+ 
+#pages:hover a {
+    color: #002F34;
+    font-size: 14px;
+    font-weight: 500;
+    
 
+}
+
+#pages a {
+    color:rgba(0, 47, 52, 0.459);
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0 5px;
+}
+
+#active a{
+    color: #002F34;
+   font-size: 14px;
+   font-weight: 600;
+}
